@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 
 public class QuickChat {
-
+   // my main method that contains  the scanner and all the login
     public static void main(String[] args) {
      Scanner scan = new Scanner(System.in);
         
