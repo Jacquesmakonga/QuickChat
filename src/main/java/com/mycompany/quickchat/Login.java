@@ -4,10 +4,7 @@
  */
 package com.mycompany.quickchat;
 
-/**
- *
- * @author Student
- */
+
 class Login {
     static String regUsername = "";
     static String regPassword = "";

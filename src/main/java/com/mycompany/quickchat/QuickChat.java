@@ -33,7 +33,7 @@ public class QuickChat {
         if(result.contains("is not correctly")) {
             return;
         }
-        
+        System.out.println("****************************************");
           System.out.print("Enter your username: ");
         String loginUser = scan.next();
         
